@@ -38,7 +38,7 @@ nav {
 	font-size: 18px;
 	font-weight: 400;
 	vertical-align: middle;
-	width: calc(100% - 275px);
+	width: calc(100% - 320px);
 	min-width: 370px;
 }
 
@@ -73,7 +73,7 @@ nav ul li a:hover {
 
 .slider__text {
 	display: inline-block;
-	width: 50%;
+	width: 60%;
 	text-align: right;
 }
 
